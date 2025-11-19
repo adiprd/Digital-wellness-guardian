@@ -1,0 +1,3 @@
+type,title,description,trigger_condition,effectiveness
+reminder,1-Hour Social Media Limit,Take a break after 1 hour of continuous scrolling,social_media_time > 60,0.7
+suggestion,Digital Sunset,No screens 1 hour before bedtime,current_hour > 21,0.8
